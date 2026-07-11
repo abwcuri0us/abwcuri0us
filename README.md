@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/logo.png" alt="ABWcurious Logo" width="200" style="border-radius: 15px;" />
+<img src="images/logo.svg" alt="ABWcurious Logo" width="200" style="border-radius: 15px;" />
 
 <br>
 
