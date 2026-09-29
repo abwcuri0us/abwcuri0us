@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="images/WhatsApp Image 2026-08-08 at 1.31.39 PM.png" alt="ABWcurious Logo" width="200" style="border-radius: 15px;" />
+<img src="images/logo without bg.png" alt="ABWcurious Logo" width="200" style="border-radius: 15px;" />
 
 <br>
 
-# 🌐 ABWcurious
+#  ABWcurious (OPC) Pvt. Ltd.
 **Pioneering Digital Transformation & Cultivating Future Technologists**
 
 [![Website](https://img.shields.io/badge/Official-Website-0052FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.abwcurious.com)
