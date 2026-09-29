@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/logo without bg.png" alt="ABWcurious Logo" width="200" style="border-radius: 15px;" />
+<img src="images/WhatsApp Image 2026-08-08 at 1.31.39 PM.png" alt="ABWcurious Logo" width="200" style="border-radius: 15px;" />
 
 <br>
 
